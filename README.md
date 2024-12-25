@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Sevara Jabbarova</h1>
 <h3 align="center">A passionate Frontend developer from Uzbekistan</h3>
 
+![pexels-rsantos1232-3888151](https://github.com/user-attachments/assets/791b4cdb-e62d-47a8-9d23-6b31074edc1a)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdev&label=Profile%20views&color=0e75b6&style=flat" alt="mdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdev" alt="mdev" /></a> </p>
